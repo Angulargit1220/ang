@@ -1,1 +1,2 @@
-var app=angular.module('git',[]);
+var application=angular.module('git',[]);
+alert('new thing added');
