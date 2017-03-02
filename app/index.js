@@ -1,1 +1,1 @@
-var app=angular.module('git',[]);
+var application=angular.module('git',[]);
